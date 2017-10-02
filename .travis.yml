@@ -1,0 +1,8 @@
+languate: node_js
+node_js: 
+- '7'
+deploy: 
+provider: heroku
+api_key: 61433d47-8ba7-4b56-99ac-35b19e85debd
+secure:
+app: intense-spire
