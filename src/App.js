@@ -3,7 +3,7 @@ import './App.css';
 
 import Character from './containers/Character'
 import Navigation from './components/navigation/Navigation'
-import CharacterCard from './components/charactercard/CharacterCard'
+// import CharacterCard from './components/charactercard/CharacterCard'
 // import Thumbnail from 'react-thumbnail'
 
 
